@@ -8,4 +8,4 @@
 <image src = /icon.JPG>
 
 
-<image src = /ad.JPG>
+
