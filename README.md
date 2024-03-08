@@ -5,7 +5,7 @@
 
 ## วัตถุประสงค์ของเกม
 พาเจ้าไดโนเสาร์ผ่านเส้นชัยให้ได้โดยปลอดภัย!
-<image src = /App Icon.PNG>
+<image src = /icon.JPG>
 
 
 <image src = /ad.JPG>
